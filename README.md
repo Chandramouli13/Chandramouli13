@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-ChandraMouli-red)](https://www.youtube.com/channel/UCdAwvIY-gk7icapp73v0EOQ)
 [![Linkedin Badge](https://img.shields.io/badge/-ChandraMouli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandra-mouli-082a82178/)](https://www.linkedin.com/in/chandra-mouli-082a82178/)
-[![Website Badge](https://img.shields.io/badge/WebSite-ChandraMouli-green)](https://twitter.com/Chandra33060881)
+[![Website Badge](https://img.shields.io/badgeTwitter-ChandraMouli-green)](https://twitter.com/Chandra33060881)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-ChandraMouli-yellow)](https://stackoverflow.com/users/20034776/chandra-mouli)
 
 I'm
